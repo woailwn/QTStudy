@@ -1,0 +1,4 @@
+module IDentiFy
+typeinfo appIDentiFy.qmltypes
+prefer :/qt/qml/IDentiFy/
+

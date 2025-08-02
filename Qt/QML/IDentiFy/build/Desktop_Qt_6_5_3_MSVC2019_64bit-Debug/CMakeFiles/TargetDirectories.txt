@@ -1,0 +1,9 @@
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/IDentiFy.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/IDentiFy_qmlimportscan.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/IDentiFy_autogen_timestamp_deps.dir
+E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/IDentiFy_autogen.dir

@@ -1,0 +1,19 @@
+# ninja log v6
+23	1734	7758440634386817	build.ninja	85fa69d1d4485c48
+23	1734	7758440634386817	E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/cmake_install.cmake	85fa69d1d4485c48
+43	300	7758440639318350	.qt_plugins/Qt6_QmlPlugins_Imports_IDentiFy.cmake	a53f1cd8f2f7af06
+43	300	7758440639318350	E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_IDentiFy.cmake	a53f1cd8f2f7af06
+300	1352	7758440648034151	IDentiFy_autogen/timestamp	fc98a34098ebec4
+300	1352	7758440648034151	IDentiFy_autogen/mocs_compilation.cpp	fc98a34098ebec4
+300	1352	7758440648034151	E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/IDentiFy_autogen/timestamp	fc98a34098ebec4
+300	1352	7758440648034151	E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/IDentiFy_autogen/mocs_compilation.cpp	fc98a34098ebec4
+1360	1676	7758440653187439	qrc_qrc.cpp	85530af9f6e00bfe
+1360	1676	7758440653187439	E:/Study/Code/Qt/QML/IDentiFy/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/qrc_qrc.cpp	85530af9f6e00bfe
+2113	2808	7758440657637437	CMakeFiles/IDentiFy.dir/log.rc.res	450a9e33a34376b3
+1976	4845	7758440656267440	CMakeFiles/IDentiFy.dir/qrc_qrc.cpp.obj	c161f6e045071db7
+2646	5293	7758440662971922	CMakeFiles/IDentiFy.dir/imageprovider.cpp.obj	45aa67d395629a25
+2484	5658	7758440661350463	CMakeFiles/IDentiFy.dir/cameraworker.cpp.obj	b2ee9ccb9c46d02a
+1829	6197	7758440654797448	CMakeFiles/IDentiFy.dir/main.cpp.obj	834fe24b6f1b9c66
+2334	6230	7758440659850468	CMakeFiles/IDentiFy.dir/backend.cpp.obj	6cefa9f89ca13458
+1677	6317	7758440653277443	CMakeFiles/IDentiFy.dir/IDentiFy_autogen/mocs_compilation.cpp.obj	a0cab47a080a89b6
+6317	8106	7758440699601330	IDentiFy.exe	a8a7c79ac3c642b4
