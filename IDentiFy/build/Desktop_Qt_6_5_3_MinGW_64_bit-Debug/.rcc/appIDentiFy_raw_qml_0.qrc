@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/IDentiFy/">
-    <file alias="qrc.qrc">E:/Study/Code/Qt/QML/IDentiFy/qrc.qrc</file>
-  </qresource>
-</RCC>
-

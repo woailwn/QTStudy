@@ -1,3 +1,0 @@
-E:\cppsoft\CMake\bin\cmake.exe -E rm -f CMakeFiles\appIDentiFy.dir/objects.a
-D:\QT6\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\appIDentiFy.dir/objects.a @CMakeFiles\appIDentiFy.dir\objects1.rsp
-D:\QT6\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\appIDentiFy.dir/objects.a -Wl,--no-whole-archive -o appIDentiFy.exe -Wl,--out-implib,libappIDentiFy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appIDentiFy.dir\linkLibs.rsp
